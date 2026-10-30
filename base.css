@@ -1,0 +1,6 @@
+html{scroll-behavior:smooth}body{margin:0}button,a{-webkit-tap-highlight-color:transparent}button{font-family:inherit;cursor:pointer}a:focus-visible,button:focus-visible{outline:3px solid #5b3df5;outline-offset:5px}[hidden]{display:none!important}
+#downsell-exit-modal{display:none;position:fixed;inset:0;z-index:1000;align-items:center;justify-content:center;background:#0009;padding:20px;font-family:Inter,Arial,sans-serif}
+#downsell-exit-modal.open{display:flex}#downsell-exit-modal>div{background:white;border-radius:20px;padding:30px;max-width:430px;width:100%;text-align:center}#downsell-exit-modal h2{font-size:25px;color:#211936;margin-top:0}#downsell-exit-modal p{color:#6a6478;line-height:1.6}#downsell-exit-modal button{width:100%;border:0;border-radius:12px;padding:15px;margin:4px 0;font-size:15px;font-weight:700}#downsell-modal-dismiss{background:#f8f5ff;color:#6a6478}
+.checkout-notice{max-width:390px;width:calc(100% - 70px);border:2px solid #e9e3f2;border-radius:20px;padding:28px;font:16px/1.6 Inter,Arial,sans-serif;color:#211936}.checkout-notice::backdrop{background:#21193699}.checkout-notice h2{font-size:24px;line-height:1.2}.checkout-notice button{background:#5b3df5;color:#fff;border:0;border-radius:10px;padding:12px 25px;font-weight:bold}
+
+.lp-lp h1{hyphens:none!important;word-break:normal!important;overflow-wrap:normal!important}
